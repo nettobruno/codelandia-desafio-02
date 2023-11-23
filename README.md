@@ -5,15 +5,13 @@ Meu objetivo era colocar em prática HTML e CSS, já que no dia a dia de trabalh
 </br>
 
 ## Design do projeto
-
-![](https://github.com/nettobruno/codelandia-desafio-01/assets/38847034/88376e68-4f5f-4f47-b55f-ca2e868ae56e)
-
+![](https://github.com/nettobruno/codelandia-desafio-02/assets/38847034/45f2c5e1-16c5-427f-ab86-ae0367340b68)
 
 </br>
 
 ## URL
 
-Caso queira ver o projeto no ar, basta clicar no link a seguir: [URL](https://codelandia-desafio-01-nettobruno.vercel.app/)
+Caso queira ver o projeto no ar, basta clicar no link a seguir: [URL](https://codelandia-desafio-02-nettobruno.vercel.app/)
 
 </br>
 
